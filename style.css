@@ -4,19 +4,19 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #c4b2f9;
   color: #333;
 }
 
 header {
-  background-color: #4CAF50;
+  background-color: #c4b2f9;
   color: white;
   padding: 10px 0;
   text-align: center;
 }
 
 h1, h2, h3 {
-  color: #4CAF50;
+  color: #4c319b;
 }
 
 h1 {
@@ -43,11 +43,11 @@ li {
   background: #eee;
   margin: 5px 0;
   padding: 10px;
-  border-left: 5px solid #4CAF50;
+  border-left: 5px solid #4c319b;
 }
 
 a {
-  color: #4CAF50;
+  color: #4c319b;
   text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ footer {
 
 /* Button Styles */
 button {
-  background-color: #4CAF50;
+  background-color: #4c319b;
   color: white;
   padding: 10px 20px;
   border: none;
